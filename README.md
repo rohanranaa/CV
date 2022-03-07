@@ -1,4 +1,3 @@
-
 <html>
 <head>
     <tital> </tital>
@@ -28,12 +27,6 @@
     <th> Dates</th>
  <th>Work</th> </tr>
         </thead>
-        <tbody>
-
-        </tbody>
-        <tfoot>
-
-        </tfoot>
         <tr>
 <td> 2010-2018</td>
 <td> Work with MNCs Companyin Toyota Company </td>
